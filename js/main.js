@@ -28,7 +28,6 @@ colorRed();
 
 // Qayta set interval bulish jarayoni
 setInterval(() => {
-  console.log("qizil 23");
   countRed = 10;
   colorRed();
 }, 20000)
